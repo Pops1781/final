@@ -1,0 +1,1 @@
+This is a Vite test file. 
