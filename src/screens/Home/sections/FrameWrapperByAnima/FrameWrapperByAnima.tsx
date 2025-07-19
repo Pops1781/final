@@ -22,7 +22,7 @@ export const FrameWrapperByAnima = (): JSX.Element => {
       {/* App Header */}
       <div className="flex items-center justify-between relative self-stretch w-full">
         <div className="font-['Inter',Helvetica] font-semibold text-blacknormal text-xl sm:text-2xl">
-          Shoppy Kart
+          Sample Kart
         </div>
         <div className="flex items-center gap-3 sm:gap-[12px]">
           <a 
